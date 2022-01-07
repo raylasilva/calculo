@@ -1,0 +1,135 @@
+@media screen and (max-width: 900px) {
+  
+  #atualizar{
+    position: absolute;
+    top: 150px;
+    left: 43%;
+    padding: 10px;
+    margin-left: 38px;
+  }
+  #alt{
+    position: relative;
+    margin-left: 28px;
+  }
+  #pes{
+    position: relative;
+    margin-left: 28px;
+  }
+
+  .limpar{
+    position: relative;
+    top: -2px;
+    left: -9%;
+    margin-left: 60px;
+    
+    
+  }
+  .calcular{
+    position: relative;
+    top: 160px;
+    left: 33%;
+    width: 100px;
+    
+  
+  }
+  #cima{
+    position: relative;
+    margin-left: -200px;
+  }
+  
+}
+  *{
+  position: relative;
+  margin: 10px;
+  padding: 7px;
+  
+  
+
+}
+body{
+  background-color: rgb(201, 219, 228);
+ 
+  
+  
+}
+
+#alt{
+  position: relative;
+  left: 40%;
+  top: 160px;
+}
+
+#altura{
+    position: relative;
+    left: 38%;
+    top: 150px;
+    
+  }
+ 
+
+
+#pes{
+  position: relative;
+  left: 40%;
+  top: 160px;
+}
+
+#peso{
+  position: relative;
+  left: 38%;
+  top: 147px;
+}
+
+#atualizar{
+  position: absolute;
+  top: 150px;
+  left: 42%;
+
+}
+
+#limpar{
+  position: relative;
+  top: 84px;
+  left: 45%;
+  margin-left: 60px;
+  
+  
+}
+.calcular{
+  position: relative;
+  top: 160px;
+  left: 33%;
+  width: 100px;
+  
+
+}
+
+#cima{
+  position: relative;
+  left: 300px;
+  color: rgb(91, 136, 150);
+}
+
+#dados{
+  position: relative;
+  top: 90px;
+}
+
+#resultado{
+  top: 95px;
+  width: 50px;
+  height: 20px;
+  background-color: rgb(103, 148, 167);
+}
+
+#resultado1{
+  top: 120px;
+}
+
+#resultado2{
+  top: 120px;
+}
+
+#resultado3{
+  top: 120px;
+}
