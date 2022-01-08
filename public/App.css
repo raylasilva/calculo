@@ -44,6 +44,7 @@
   padding: 7px;
   
   
+  
 
 }
 body{
@@ -117,7 +118,7 @@ body{
 
 #resultado{
   top: 95px;
-  width: 50px;
+  width: 130px;
   height: 20px;
   background-color: rgb(103, 148, 167);
 }

@@ -6,8 +6,9 @@ function calcular() {
     var altura= parseFloat(document.getElementById('altura').value,1.65);
     var peso = parseFloat(document.getElementById('peso').value,10);
     document.getElementById('resultado').innerHTML = peso/(altura * altura);
- 
- 
+  
+    
+  
 
     
     
