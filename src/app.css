@@ -1,48 +1,10 @@
-@media screen and (max-width: 900px) {
-  
-  #atualizar{
-    position: absolute;
-    top: 150px;
-    left: 43%;
-    padding: 10px;
-    margin-left: 38px;
-  }
-  #alt{
-    position: relative;
-    margin-left: 28px;
-  }
-  #pes{
-    position: relative;
-    margin-left: 28px;
-  }
 
-  .limpar{
-    position: relative;
-    top: -2px;
-    left: -9%;
-    margin-left: 60px;
-    
-    
-  }
-  .calcular{
-    position: relative;
-    top: 160px;
-    left: 33%;
-    width: 100px;
-    
-  
-  }
-  #cima{
-    position: relative;
-    margin-left: -200px;
-  }
-  
-}
+
   *{
   position: relative;
   margin: 10px;
   padding: 7px;
-  
+ 
   
   
 
@@ -85,7 +47,7 @@ body{
   position: absolute;
   top: 150px;
   left: 42%;
-
+ 
 }
 
 #limpar{
@@ -107,8 +69,9 @@ body{
 
 #cima{
   position: relative;
-  left: 300px;
   color: rgb(91, 136, 150);
+  margin-left: 0;
+  text-align: center;
 }
 
 #dados{
@@ -125,12 +88,15 @@ body{
 
 #resultado1{
   top: 120px;
+  text-align: justify;
 }
 
 #resultado2{
   top: 120px;
+  text-align: justify;
 }
 
 #resultado3{
   top: 120px;
+  text-align: justify;
 }

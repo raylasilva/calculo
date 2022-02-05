@@ -1,3 +1,6 @@
+
+
+
 function calcular() {
     var resultado1 = document.getElementById('resultado1');
     var  resultado2 = document.getElementById('resultado2');
